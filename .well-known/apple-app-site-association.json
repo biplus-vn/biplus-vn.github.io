@@ -1,0 +1,18 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "com.zipptrip.lumi"
+                ],
+                "components": [
+                    {
+                        "#": "no_universal_links",
+                        "exclude": true,
+                        "comment": "https://www.apple.com/lae/app-store/"
+                    }
+                ]
+            }
+        ]
+    }
+}

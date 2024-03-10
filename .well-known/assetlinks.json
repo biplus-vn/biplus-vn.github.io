@@ -1,0 +1,17 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zipptrip.lumi",
+      "sha256_cert_fingerprints": [
+        "29:11:3A:2B:4F:4F:74:5B:DF:29:20:2C:41:C7:49:61:F2:CC:F8:83:55:17:E9:66:DA:43:E5:C8:C2:DF:23:DE",
+        "29:11:3A:2B:4F:4F:74:5B:DF:29:20:2C:41:C7:49:61:F2:CC:F8:83:55:17:E9:66:DA:43:E5:C8:C2:DF:23:DE",
+        "29:11:3A:2B:4F:4F:74:5B:DF:29:20:2C:41:C7:49:61:F2:CC:F8:83:55:17:E9:66:DA:43:E5:C8:C2:DF:23:DE",
+        "29:11:3A:2B:4F:4F:74:5B:DF:29:20:2C:41:C7:49:61:F2:CC:F8:83:55:17:E9:66:DA:43:E5:C8:C2:DF:23:DE"
+      ]
+    }
+  }
+]
